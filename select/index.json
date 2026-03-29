@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドント・ストップ・ミュージック",
+  "base_artist": "SKE48 Team KⅡ",
+  "createdAt": "2026-03-29T15:25:40.748794Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドント・ストップ・ミュージック",
+      "artist": "SKE48 TeamKⅡ",
+      "has_synced": false,
+      "path": "select/pl_01_ドント・ストップ・ミュージック_SKE48_TeamKII.txt"
+    }
+  ]
+}
